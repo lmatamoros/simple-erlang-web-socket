@@ -1,0 +1,6 @@
+-sname simple_erlang_web_socket
+
+-setcookie simple_erlang_web_socket_cookie
+
++K true
++A30

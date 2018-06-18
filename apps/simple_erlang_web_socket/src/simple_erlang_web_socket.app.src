@@ -1,0 +1,19 @@
+{application, simple_erlang_web_socket,
+    [
+        {description, "An OTP application"},
+        {vsn, "0.1.0"},
+        {registered, []},
+        {mod, { simple_erlang_web_socket_app, []}},
+        {applications,
+            [
+                kernel,
+                stdlib
+            ]
+        },
+        {env,[]},
+        {modules, []},
+        {maintainers, []},
+        {licenses, [""]},
+        {links, []}
+    ]
+}.
